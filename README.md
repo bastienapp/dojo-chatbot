@@ -4,8 +4,8 @@ Un « chatbot » est un robot logiciel pouvant dialoguer avec un consommateur pa
 
 On considère que le nom d'une ville figure dans un message, à partir du moment où les lettres qui composent le nom apparaissent consécutivement dans le message (en majuscules ou minuscules). Par exemple Paris figure dans parisienne mais Nantes ne figure pas dans maintenant.
 
-En entrée : un tableau avec les messages du consommateur.
-En sortie : le nom de la première ville présente dans l'ensemble des messages si elle existe, null sinon.
+* En entrée : un tableau avec les messages du consommateur.
+* En sortie : le nom de la première ville présente dans l'ensemble des messages si elle existe, null sinon.
 
 Exemples: 
 
